@@ -1,0 +1,31 @@
+---
+title       : RoboFin
+subtitle    : 
+author      : Parth, Arpit
+job         : 
+framework   : io2012       # {io2012, html5slides, shower, dzslides,revealjs,impressjs ...}
+highlighter : highlight.js  # {highlight.js, prettify, highlight}
+hitheme     : tomorrow      # 
+widgets     : []            # {mathjax, quiz, bootstrap}
+mode        : selfcontained # {standalone, draft}
+knit        : slidify::knit2slides
+
+--- 
+
+## Table Of Contents
+
+1. Intro
+2. Team
+3. Product
+
+---  {class: class1,bg: yellow,id: id1}
+
+## Intro
+
+XYZ
+
+--- {class: class2, bg: gainsboro, id: id2}
+
+## Team
+
+
